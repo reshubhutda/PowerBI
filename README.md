@@ -7,4 +7,4 @@ Here are some of my PowerBI visualizations:
 
 ### Dashboard Preview
 1. Global Meat Production
-![Dashboard Screenshot](https://raw.githubusercontent.com/reshubhutda/PowerBI/main/Images/Meat_Production.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/reshubhutda/PowerBI/main/Images/Meat_Production.mp4)
